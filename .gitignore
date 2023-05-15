@@ -2,7 +2,4 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/KIRVAS/FileContentIndex/5acb869b-7768-401f-92c2-b90bd94209bb.vsidx
-/.vs/KIRVAS/FileContentIndex/1487a72b-22b0-4e8b-87aa-405fa771c234.vsidx
-/.vs/KIRVAS/FileContentIndex/13302406-6139-423a-9eb4-fc4e84bb3153.vsidx
-/.vs/KIRVAS/FileContentIndex/03a2fd6d-69f3-4af5-9533-5354912d1d3b.vsidx
+/.vs
